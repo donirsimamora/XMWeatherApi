@@ -1,0 +1,6 @@
+@XMWeatherApi_HostAddress = http://localhost:5165
+
+GET {{XMWeatherApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

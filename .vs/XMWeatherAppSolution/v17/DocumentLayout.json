@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evysi\\XMWeatherAppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8646A608-B165-43BA-9169-802B317A63DC}|src\\XMWeatherApi\\XMWeatherApi\\XMWeatherApi.csproj|c:\\users\\evysi\\xmweatherappsolution\\src\\xmweatherapi\\xmweatherapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8646A608-B165-43BA-9169-802B317A63DC}|src\\XMWeatherApi\\XMWeatherApi\\XMWeatherApi.csproj|solutionrelative:src\\xmweatherapi\\xmweatherapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8646A608-B165-43BA-9169-802B317A63DC}|src\\XMWeatherApi\\XMWeatherApi\\XMWeatherApi.csproj|c:\\users\\evysi\\xmweatherappsolution\\src\\xmweatherapi\\xmweatherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8646A608-B165-43BA-9169-802B317A63DC}|src\\XMWeatherApi\\XMWeatherApi\\XMWeatherApi.csproj|solutionrelative:src\\xmweatherapi\\xmweatherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\evysi\\XMWeatherAppSolution\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8646A608-B165-43BA-9169-802B317A63DC}|src\\XMWeatherApi\\XMWeatherApi\\XMWeatherApi.csproj|c:\\users\\evysi\\xmweatherappsolution\\src\\xmweatherapi\\xmweatherapi\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8646A608-B165-43BA-9169-802B317A63DC}|src\\XMWeatherApi\\XMWeatherApi\\XMWeatherApi.csproj|solutionrelative:src\\xmweatherapi\\xmweatherapi\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8646A608-B165-43BA-9169-802B317A63DC}|src\\XMWeatherApi\\XMWeatherApi\\XMWeatherApi.csproj|c:\\users\\evysi\\xmweatherappsolution\\src\\xmweatherapi\\xmweatherapi\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8646A608-B165-43BA-9169-802B317A63DC}|src\\XMWeatherApi\\XMWeatherApi\\XMWeatherApi.csproj|solutionrelative:src\\xmweatherapi\\xmweatherapi\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8646A608-B165-43BA-9169-802B317A63DC}|src\\XMWeatherApi\\XMWeatherApi\\XMWeatherApi.csproj|c:\\users\\evysi\\xmweatherappsolution\\src\\xmweatherapi\\xmweatherapi\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8646A608-B165-43BA-9169-802B317A63DC}|src\\XMWeatherApi\\XMWeatherApi\\XMWeatherApi.csproj|solutionrelative:src\\xmweatherapi\\xmweatherapi\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\evysi\\XMWeatherAppSolution\\src\\XMWeatherApi\\XMWeatherApi\\wwwroot\\app.js",
+              "RelativeDocumentMoniker": "src\\XMWeatherApi\\XMWeatherApi\\wwwroot\\app.js",
+              "ToolTip": "C:\\Users\\evysi\\XMWeatherAppSolution\\src\\XMWeatherApi\\XMWeatherApi\\wwwroot\\app.js",
+              "RelativeToolTip": "src\\XMWeatherApi\\XMWeatherApi\\wwwroot\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-02T14:54:21.476Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\evysi\\XMWeatherAppSolution\\src\\XMWeatherApi\\XMWeatherApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\XMWeatherApi\\XMWeatherApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\evysi\\XMWeatherAppSolution\\src\\XMWeatherApi\\XMWeatherApi\\appsettings.json",
+              "RelativeToolTip": "src\\XMWeatherApi\\XMWeatherApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-03T07:26:21.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\evysi\\XMWeatherAppSolution\\src\\XMWeatherApi\\XMWeatherApi\\Services\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "src\\XMWeatherApi\\XMWeatherApi\\Services\\IWeatherService.cs",
+              "ToolTip": "C:\\Users\\evysi\\XMWeatherAppSolution\\src\\XMWeatherApi\\XMWeatherApi\\Services\\IWeatherService.cs",
+              "RelativeToolTip": "src\\XMWeatherApi\\XMWeatherApi\\Services\\IWeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:23:59.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\evysi\\XMWeatherAppSolution\\src\\XMWeatherApi\\XMWeatherApi\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "src\\XMWeatherApi\\XMWeatherApi\\Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\evysi\\XMWeatherAppSolution\\src\\XMWeatherApi\\XMWeatherApi\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "src\\XMWeatherApi\\XMWeatherApi\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:23:48.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\evysi\\XMWeatherAppSolution\\README.txt",
+              "RelativeDocumentMoniker": "README.txt",
+              "ToolTip": "C:\\Users\\evysi\\XMWeatherAppSolution\\README.txt",
+              "RelativeToolTip": "README.txt",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-02T17:52:52.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\evysi\\XMWeatherAppSolution\\src\\XMWeatherApi\\XMWeatherApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\XMWeatherApi\\XMWeatherApi\\Program.cs",
+              "ToolTip": "C:\\Users\\evysi\\XMWeatherAppSolution\\src\\XMWeatherApi\\XMWeatherApi\\Program.cs",
+              "RelativeToolTip": "src\\XMWeatherApi\\XMWeatherApi\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:59:17.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

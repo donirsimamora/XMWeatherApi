@@ -1,0 +1,39 @@
+﻿<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>XM Weather App</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <style>
+        body {
+            font-family: system-ui, Arial;
+            padding: 1rem;
+        }
+
+        .row {
+            margin-bottom: .75rem
+        }
+
+        label {
+            display: block;
+            margin-bottom: .25rem
+        }
+    </style>
+</head>
+<body>
+    <h2>Weather App</h2>
+    <div class="row">
+        <label for="countries">Country</label>
+        <select id="countries"><option>Loading...</option></select>
+    </div>
+    <div class="row">
+        <label for="cities">City</label>
+        <select id="cities"><option>Select a country first</option></select>
+    </div>
+    <div class="row">
+        <button id="fetch">Get Weather</button>
+    </div>
+<pre id="output"></pre>
+    <script src="/app.js"></script>
+</body>
+</html>
